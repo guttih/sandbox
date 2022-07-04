@@ -1,8 +1,0 @@
-### Visual Studio Code ###
-**/.vscode/**/*
-
-# Allowing these to be added to .vscode folder
-!**/.vscode/settings.json 
-!**/.vscode/tasks.json
-!**/.vscode/launch.json
-!**/.vscode/extensions.json
