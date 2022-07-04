@@ -34,7 +34,7 @@ target_link_libraries(${PROJECT_NAME} PUBLIC ${EXTRA_LIBS})
 # add the binary tree to the search path for include files
 # so that we will find TutorialConfig.h
 target_include_directories(${PROJECT_NAME} PUBLIC
-    "${PROJECT_BINARY_DIR}"
+    ${PROJECT_BINARY_DIR}
 )
 
 # To build and run
