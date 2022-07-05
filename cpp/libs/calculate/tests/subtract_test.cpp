@@ -10,7 +10,7 @@ TEST( CalculateTests, TestSubtractIntegerOne_One )
 
 TEST( CalculateTests, TestSubtractIntegerZero_Zero )
 {
-    //todo:Change expected value to 0 to make test pass instead of fail
+    //todo: Change expected value to 0 to make test pass instead of fail
     const auto expected = 1;
     const auto actual = subtract( 0, 0 );
     ASSERT_EQ( expected, actual );
