@@ -1,6 +1,0 @@
-// the configured options and settings for classer
-#define classer_VERSION_MAJOR @classer_VERSION_MAJOR@
-#define classer_VERSION_MINOR @classer_VERSION_MINOR@
-#define VERSION_DISPLAY_NAME "@VERSION_DISPLAY_NAME@"
-#cmakedefine USE_MYMATH
-#cmakedefine USE_PEOPLE

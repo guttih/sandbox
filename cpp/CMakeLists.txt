@@ -1,3 +1,6 @@
+# See CMake tutorial: https://cmake.org/cmake/help/latest/guide/tutorial/index.html
+#     and GoogleTest: https://google.github.io/googletest/quickstart-cmake.html#set-up-a-project
+
 include(FetchContent)
 
 FetchContent_Declare(
