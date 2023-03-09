@@ -1,4 +1,4 @@
-# see: https://cmake.org/cmake/help/lates11t/guide/tutorial/index.html
+# see: https://cmake.org/cmake/help/latest/guide/tutorial/index.html
 
 cmake_minimum_required(VERSION 3.15)
 
